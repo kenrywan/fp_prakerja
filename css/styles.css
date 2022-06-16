@@ -1,0 +1,14 @@
+.bg-home-img{
+    background-image: url(../images/bg_home.jpg);
+    background-attachment: fixed;
+    background-size:  cover;
+}
+
+#team .column p {
+    text-align: left;
+}
+
+#team .column {
+    flex-basis: unset;
+    flex-grow: unset;
+}
